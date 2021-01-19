@@ -1,2 +1,3 @@
 # Darkmode
-Dark mode code
+this code write with HTML | CSS | javascript
+
